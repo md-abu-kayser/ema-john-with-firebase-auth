@@ -15,16 +15,31 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/md-abu-kayser/ema-john-vite-firebase">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository" />
+
+  <a href="https://github.com/md-abu-kayser/ema-john-vite-firebase" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
+
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-2563EB?style=for-the-badge" alt="MIT License" />
   </a>
-  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React 18" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Firebase-Authentication%20%2B%20Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" alt="Firebase" />
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React 18 Documentation" />
+  </a>
+
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Documentation" />
+  </a>
+
+  <a href="https://vite.dev/guide/" target="_blank">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Documentation" />
+  </a>
+
+  <a href="https://firebase.google.com/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-Authentication%20%2B%20Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" alt="Firebase Documentation" />
+  </a>
+
 </p>
 
 <p align="center">
